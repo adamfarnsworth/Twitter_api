@@ -1,3 +1,5 @@
+see twitcurlForReal for the work I did
+
 ### Introduction: ###
 **twitcurl** is a pure C++ library for twitter APIs. twitcurl uses cURL for handling HTTP requests and responses. twitcurl has been tested on Microsoft Windows, Ubuntu and Debian. In fact, it works just fine on any operating system that supports cURL.
   * v1.1 Twitter REST APIs
