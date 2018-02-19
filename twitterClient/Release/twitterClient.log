@@ -1,0 +1,18 @@
+﻿twitcurl.lib(mprintf.obj) : warning LNK4217: locally defined symbol _sprintf imported in function _dprintf_formatf
+twitcurl.lib(socks.obj) : error LNK2019: unresolved external symbol __imp__sscanf referenced in function _Curl_SOCKS5
+twitcurl.lib(http_proxy.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(transfer.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(parsedate.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(imap.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(telnet.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(ftp.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(http.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(hostip.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(url.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(cookie.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(rtsp.obj) : error LNK2001: unresolved external symbol __imp__sscanf
+twitcurl.lib(url.obj) : error LNK2019: unresolved external symbol __imp____iob_func referenced in function _Curl_init_userdefined
+twitcurl.lib(cookie.obj) : error LNK2001: unresolved external symbol __imp____iob_func
+twitcurl.lib(mprintf.obj) : error LNK2001: unresolved external symbol __imp____iob_func
+twitcurl.lib(formdata.obj) : error LNK2001: unresolved external symbol __imp____iob_func
+.\Release/twitterClient.exe : fatal error LNK1120: 2 unresolved externals
